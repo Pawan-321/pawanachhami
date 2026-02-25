@@ -42,7 +42,7 @@ const ProjectsSection = () => (
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
       >
-        <h2 className="mb-2 font-mono text-sm text-primary text-glow">04.</h2>
+        <h2 className="mb-2 font-mono text-sm text-primary text-glow">05.</h2>
         <h3 className="mb-12 text-3xl font-bold text-foreground">Projects</h3>
       </motion.div>
 
